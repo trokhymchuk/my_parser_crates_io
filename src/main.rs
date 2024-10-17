@@ -1,4 +1,4 @@
-use my_parser_test::list_parser;
+use my_parser_test_0xdeadbeef::list_parser;
 
 pub fn main() {
     let l = list_parser::list("[1,1,2,3,5,8]");
