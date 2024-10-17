@@ -1,0 +1,10 @@
+[package]
+name = "my_parser_test"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "some interesting description"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+peg = "0.8.4"
